@@ -144,9 +144,12 @@
 > - CCI出现买进信号，则买进
 > - 如果出现连续买进或者卖出的信号，则观察第2个连号的MACD指标，如果量能过小或者成本比前一个高，则忽略此信号，如果出现3个连号，不管量能，直接买进或者卖出
 #### 5) 沙盘推演
-> - 选择2017-12-01 - 2018-05-11时间段中的> - 沪深300 创业板和医药股
+> - 选择2017-12-01 - 2018-05-11时间段中的  创业板和医药股
+> - 沪深300
 >>>>>> ![沪深300](https://github.com/hblvsjtu/StockTradingSignalSystem/blob/master/picture/%E6%B2%AA%E6%B7%B1300.png?raw=true)
+> - 创业板
 >>>>>> ![创业板](https://github.com/hblvsjtu/StockTradingSignalSystem/blob/master/picture/%E5%88%9B%E4%B8%9AETF.png?raw=true)
+> - 医药股
 >>>>>> ![医药股](https://github.com/hblvsjtu/StockTradingSignalSystem/blob/master/picture/%E5%B9%BF%E5%8F%91%E5%8C%BB%E8%8D%AF6.png?raw=true)
 > - 结果
 >>>>>> ![沙盘推演](https://github.com/hblvsjtu/StockTradingSignalSystem/blob/master/picture/%E6%B2%99%E7%9B%98%E6%8E%A8%E6%BC%94.png?raw=true)
